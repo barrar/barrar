@@ -2,7 +2,7 @@
 	xmlns="http://www.w3.org/2000/svg" version="1.1"
 	xmlns:xlink="http://www.w3.org/1999/xlink"
 	xmlns:svgjs="http://svgjs.dev/svgjs">
-	<rect width="1920" height="1080" fill="hsl(150, 65%, 15%)"></rect>
+	<rect width="900" height="200" fill="hsl(150, 65%, 15%)"></rect>
 	<defs>
 		<linearGradient x1="0.5" y1="0" x2="0" y2="1" id="SvgjsLinearGradient1329">
 			<stop stop-color="#288a81" offset="0"></stop>
