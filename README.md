@@ -1,3 +1,1 @@
-<img alt="bg" src="./bg.svg" height="200">
-
-### Hello!
+<img alt="Hello" src="./bg.png" height="200">
