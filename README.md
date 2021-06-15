@@ -1,1 +1,1 @@
-<img alt="Hello" src="./bg.png">
+<img alt="Hello" src="./bgw.png">
