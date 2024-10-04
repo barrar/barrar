@@ -1,1 +1,1 @@
-<img alt="Hello" src="./bgw.png">
+<h2>Hello!</h2>
