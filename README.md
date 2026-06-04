@@ -12,4 +12,7 @@ Product-minded engineer with 15 years of experience building scalable, reliable 
 
 ### Links
 - LinkedIn: https://www.linkedin.com/in/jeremiahb42/
+- Powder Meter Website: https://powdermeter.com
+- Powder Meter Android App: https://play.google.com/store/apps/details?id=com.nobrakes.android.powdermeter
+- Bend Trail Maps Website: https://bendtrailmaps.com
 - Blog: https://codingnotions.com
