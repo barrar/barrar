@@ -1,6 +1,12 @@
 ### About
 
-Product-minded engineer with 15 years of experience building scalable, reliable systems that are predictable, testable, observable and well-documented. I design resilient cloud architectures, deliver lasting performance gains, streamline CI/CD and dev workflows, integrate complex third-party platforms, and lead projects from concept to production. My approach pairs deep diagnostics with pragmatic engineering to eliminate bottlenecks, harden reliability, and control cost.
+Product oriented engineer with 15 years of experience building reliable systems that are scalable, testable,
+observable, and well documented. I optimize cloud architectures, reduce expenses, streamline CI/CD and dev
+workflows, integrate third-party platforms, and lead projects from concept to production. My approach pairs
+deep diagnostics with practical engineering to resolve root causes, reduce bottlenecks, and ensure reliability.
+When appropriate, I use AI to increase efficiency by following a proven research, plan, implement, and verify
+workflow. I strive to be a great teammate and focus on making the team stronger. I take pride in delivering
+great results.
 
 ### What I work on
 - Discovery, design, implementation, deployment, and iteration
