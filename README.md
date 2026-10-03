@@ -17,9 +17,9 @@ great results.
 - Integrations across complex third party systems
 
 ### Links
-- LinkedIn: https://www.linkedin.com/in/jeremiahb42/
-- Powder Meter Website: https://powdermeter.com | https://github.com/barrar/powder-meter
-- Powder Meter Android App: https://play.google.com/store/apps/details?id=com.nobrakes.android.powdermeter | https://github.com/barrar/powder-meter-v2
-- Bend Trail Maps Website: https://bendtrailmaps.com | https://github.com/barrar/bendtrailmaps
-- Arcs Board Game: https://arcs.bendtrailmaps.com | https://github.com/barrar/arcs-online
-- Blog: https://codingnotions.com
+- [LinkedIn](https://www.linkedin.com/in/jeremiahb42/)
+- [Powder Meter Website](https://powdermeter.com) | [Source on GitHub](https://github.com/barrar/powder-meter)
+- [Powder Meter Android App](https://play.google.com/store/apps/details?id=com.nobrakes.android.powdermeter) | [Source on GitHub](https://github.com/barrar/powder-meter-v2)
+- [Bend Trail Maps Website](https://bendtrailmaps.com) | [Source on GitHub](https://github.com/barrar/bendtrailmaps)
+- [ARCS Board Game](https://arcs.bendtrailmaps.com) | [Source on GitHub](https://github.com/barrar/arcs-online)
+- [Blog](https://codingnotions.com)
