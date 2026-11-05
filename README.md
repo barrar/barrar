@@ -22,4 +22,5 @@ great results.
 - [Powder Meter Android App](https://play.google.com/store/apps/details?id=com.nobrakes.android.powdermeter) | [Source on GitHub](https://github.com/barrar/powder-meter-v2)
 - [Bend Trail Maps Website](https://bendtrailmaps.com) | [Source on GitHub](https://github.com/barrar/bendtrailmaps)
 - [ARCS Board Game](https://arcs.bendtrailmaps.com) | [Source on GitHub](https://github.com/barrar/arcs-online)
+- [DynoLab Motorcycle Comparison](https://moto.bendtrailmaps.com/) | [Source on GitHub](https://github.com/barrar/dynolab)
 - [Blog](https://codingnotions.com)
